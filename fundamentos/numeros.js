@@ -16,3 +16,12 @@ const media = total / (peso1 + peso2);
 console.log(media.toFixed(2));
 console.log(media.toString());
 console.log(typeof media);
+
+//Converte para number e faz o calculo
+console.log("10" / 2);
+
+//resultado infinito
+console.log(7/ 0);
+
+//Resultado Nan
+console.log("texte" * 2);
